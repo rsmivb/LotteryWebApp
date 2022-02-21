@@ -1,5 +1,6 @@
 import React from "react";
 import { Card } from "react-bootstrap";
+import './LotteryTable.scoped.scss';
 
 export interface ITableItem {
   value: number,
